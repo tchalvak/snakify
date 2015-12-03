@@ -1,5 +1,5 @@
 from nose.tools import *
-import NAME
+import cobra
 
 def setup():
     print "SETUP!"
